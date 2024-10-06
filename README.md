@@ -4,7 +4,7 @@ DevQuoteLoader, web sayfalarınız için şık ve motive edici bir yükleme ekra
 
 ## Demo
 
-[![CodePen Logo](https://codepen.io/favicon.ico)](https://codepen.io/negsyz/pen/eYqzEEN) Demoyu CodePen.io' da incelemek için tıkla.
+[![CodePen Logo](https://www.svgrepo.com/show/508790/codepen-02.svg)](https://codepen.io/negsyz/pen/eYqzEEN) Demoyu CodePen.io' da incelemek için tıkla.
 
 ## Özellikler
 
