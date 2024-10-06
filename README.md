@@ -4,7 +4,8 @@ DevQuoteLoader, web sayfalarınız için şık ve motive edici bir yükleme ekra
 
 ## Demo
 
-<img src="https://www.svgrepo.com/show/508790/codepen-02.svg" alt="CodePen Logo" width="24" height="24" style="vertical-align: middle;"> Demoyu CodePen.io' da incelemek için tıkla.
+<img src="https://www.svgrepo.com/show/508790/codepen-02.svg" alt="CodePen Logo" width="24" height="24" style="vertical-align: middle;"> [Demoyu CodePen.io' da incelemek için tıkla.](https://codepen.io/negsyz/pen/eYqzEEN)
+
 ## Özellikler
 
 - Sayfa yüklenirken görünen animasyonlu yükleme çubuğu
