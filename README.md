@@ -2,6 +2,10 @@
 
 DevQuoteLoader, web sayfalarınız için şık ve motive edici bir yükleme ekranı sunan hafif bir JavaScript kütüphanesidir. Sayfa yüklenirken, kullanıcılara programlama ve yazılım geliştirme ile ilgili ilham verici alıntılar gösterir.
 
+## Demo
+
+- https://codepen.io/negsyz/pen/eYqzEEN
+
 ## Özellikler
 
 - Sayfa yüklenirken görünen animasyonlu yükleme çubuğu
